@@ -1,6 +1,3 @@
-"""
-Author: Prakhar
-"""
 import os
 import argparse
 import torch
