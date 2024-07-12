@@ -12,7 +12,8 @@
 
 - PPT [PPT]
 
-- Google Colabs [Colab]
+- Generate [generate,py] ()
+- Train [train.py] ()
 
 - YouTube  [Branding]
 
