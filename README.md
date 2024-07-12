@@ -23,10 +23,10 @@
 ## InspireU
 
 ## Author
--
--
--
--
+- [AbdullahAzzam1](https://github.com/AbdullahAzzam1)
+- [dealestari1005](https://github.com/dealestari1005)
+- [dhealistiaapriyanti](https://github.com/dhealistiaapriyanti)
+- [122344556](https://github.com/122344556)
 
 ## Logo
 
