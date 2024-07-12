@@ -21,7 +21,10 @@
 
 ## InspireU
 
+InspireU is an innovative application designed to generate motivational and inspirational quotes. Whether you're seeking daily encouragement, a boost of positivity, or thoughtful reflections, InspireU offers a diverse range of quotes to uplift your spirit and ignite your motivation.
+
 ## Author
+
 - [AbdullahAzzam1](https://github.com/AbdullahAzzam1)
 - [dealestari1005](https://github.com/dealestari1005)
 - [dhealistiaapriyanti](https://github.com/dhealistiaapriyanti)
