@@ -32,7 +32,7 @@ InspireU is an innovative application designed to generate motivational and insp
 
 ## Logo
 
-![Logo InspireU]([logo.png]
+![Logo InspireU](https://github.com/Abdulazzam1/Machine-Learning-TextGeneration/blob/main/logo.png)
 
 ## Proposal
 [Proposal](https://www.canva.com/design/DAGHI08iPyI/yH1ukET4qFjVTCFpmUCUOw/edit)
