@@ -31,7 +31,7 @@
 ## Logo
 
 ## Proposal
-[Proposal]([https://drive.google.com/drive/folders/1jfyfJ0VYX8A6x5AN54DYHcxC1OpPgE8m](https://www.canva.com/design/DAGHI08iPyI/yH1ukET4qFjVTCFpmUCUOw/edit)
+[Proposal](https://www.canva.com/design/DAGHI08iPyI/yH1ukET4qFjVTCFpmUCUOw/edit)
 
 ## Languages and Tools:
 
