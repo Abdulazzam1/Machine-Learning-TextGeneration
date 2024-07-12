@@ -32,8 +32,7 @@ InspireU is an innovative application designed to generate motivational and insp
 
 ## Logo
 
-![Logo InspireU]([logo.png](https://drive.google.com/drive/u/1/my-drive))
-<img src="https://drive.google.com/drive/u/1/my-drive/logo.svg" alt=" logo" width="50"/>
+![Logo InspireU]([logo.png]
 
 ## Proposal
 [Proposal](https://www.canva.com/design/DAGHI08iPyI/yH1ukET4qFjVTCFpmUCUOw/edit)
