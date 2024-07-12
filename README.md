@@ -10,13 +10,13 @@
 
 - Paper  [Paper](https://drive.google.com/drive/folders/1jfyfJ0VYX8A6x5AN54DYHcxC1OpPgE8m)
 
-- PPT [PPT]()
+- PPT [PPT]
 
-- Google Colabs [Colab]()
+- Google Colabs [Colab]
 
-- YouTube  [Branding]()
+- YouTube  [Branding]
 
-- YouTube [Demo]()
+- YouTube [Demo]
 
 
 ## InspireU
