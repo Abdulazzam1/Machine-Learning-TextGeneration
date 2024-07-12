@@ -12,7 +12,7 @@
 
 - PPT [PPT]
 
-- Generate [generate,py] ()
+- Generate [generate,py] (https://github.com/Abdulazzam1/Machine-Learning-TextGeneration/blob/main/generate.py)
 - Train [train.py] ()
 
 - YouTube  [Branding]
