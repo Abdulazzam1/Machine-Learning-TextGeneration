@@ -32,7 +32,7 @@ InspireU is an innovative application designed to generate motivational and insp
 
 ## Logo
 
-![Uploading logo.png…]()
+![Uploading logo.png…](C:\Users\Administrator\Downloads)
 
 ## Proposal
 [Proposal](https://www.canva.com/design/DAGHI08iPyI/yH1ukET4qFjVTCFpmUCUOw/edit)
