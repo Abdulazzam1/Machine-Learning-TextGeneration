@@ -17,7 +17,9 @@
 
 - YouTube  [Branding]
 
-- YouTube [Demo](https://drive.google.com/drive/folders/1NQmOeS5tDVbuBUxn4q7Bek4xvrLUQr5l?usp=sharing)
+- YouTube [Demo](https://youtu.be/ljRpdvCSvPk)
+
+- Hasil [Demo Aplikasi](https://drive.google.com/drive/folders/1NQmOeS5tDVbuBUxn4q7Bek4xvrLUQr5l?usp=sharing)
 
 
 ## InspireU
